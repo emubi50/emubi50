@@ -1,25 +1,58 @@
-<h1 align="center">Hi 👋, I'm Michael Mirasol</h1>
-<h3 align="center">I am a CS Student currently attending UAS Technikum Wien</h3>
+![👋 Hi, I am Emubi!](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
-- 🔭 I’m currently working on [a website using PHP to refresh my web-development skills.](https://ne-timeas.infinityfree-app.com)
+![Profile views](https://komarev.com/ghpvc/?username=emubi50&label=Profile%20views&color=0e75b6&style=flat)
 
-- 📫 How to reach me **if24b077@technikum-wien.at**
+<hr>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<div id="toc">
+  <ul align="center" style="list-style: none">
+    <summary>
+      <h1>
+        👋 Hi, I'm Emubi!
+      </h1>
+    </summary>
+  </ul>
+</div>
 
+**<h3 align="left">Connect with me:</h3>** 
+<p align="left"><a href="https://github.com/emubi50" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/emubi50" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="mbmirasol06@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a></p>
+
+<hr>
+
+<h2>About me</h2>
+
+ **<h3 align="left">🚀 I am a passionate CS student at UAS Technikum Wien with a passion for software engineering, web development, and game development.</h3>**
+
+<h3 align="left">Rapid Fire</h3>
+
+- 💼 I'm currently working on: **The Arid Expanse Trilogy (Oasis of Sands, Echoes of Dunes, and Mirage of Fate).**
+- 🌱 I'm currently learning: **C++, Git & GitHub, JavaScript, TypeScript, Angular.**<!-- <br> 💬 Ask me about: **.**-->
+- ⚡ Fun fact: **In my time away from computers, I like playing on my violin.**
+- 📂 Portfolio: **I don't have a Portfolio yet...**
+- 📝 Blog: **The blog hasn't been created yet...**
+
+<hr>
+
+ **<h2 align="left">Skills</h2>**
+
+<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;"><img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white" height="32" alt="JavaScript" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Python-306998?logo=python&logoColor=white" height="32" alt="Python" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" height="32" alt="Java" style="margin-right: 4px"> <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white" height="32" alt="C" style="margin-right: 4px"> <img src="https://img.shields.io/badge/C%2B%2B-F34B7F?logo=c%2B%2B&logoColor=white" height="32" alt="C++" style="margin-right: 4px"> <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" height="32" alt="PHP" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white" height="32" alt="Bootstrap" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white" height="32" alt="Oracle" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="32" alt="MySQL" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white" height="32" alt="MariaDB" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?logo=azure-devops&logoColor=white" height="32" alt="Azure DevOps" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white" height="32" alt="Visual Studio Code" style="margin-right: 4px"> <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?logo=intellij-idea&logoColor=white" height="32" alt="IntelliJ IDEA" style="margin-right: 4px"></div>
+
+<hr>
+
+ **<h3 align="left">GitHub Stats</h3>**
+
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=emubi50&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=emubi50&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
+</p>
+
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=emubi50&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=emubi50&repo=oasencrawler&bg_color=35%2C2dd4bf%2C784BA0%2C2B86C5&show_owner=true&title_color=fff&text_color=fff&icon_color=fff" alt="GitHub repo-card Card" />
+</p>
 
 <!--
-**emubi50/emubi50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ **<h3 align="left">Support Me</h3>**
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<p align="left"><a href="https://www.patreon.com/emubi50" target="_blank"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" height="36" style="margin-right: 4px"></a> <a href="https://buymeacoffee.com/emubi50" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-fde047?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" height="36" style="margin-right: 4px"></a> <a href="https://paypal.me/emubi50" target="_blank"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" height="36" style="margin-right: 4px"></a> <a href="https://ko-fi.com/emubi50" target="_blank"><img src="https://img.shields.io/badge/Ko--fi-343B45?style=for-the-badge&logo=kofi&logoColor=Black" height="36" style="margin-right: 4px"></a></p>
 -->
