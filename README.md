@@ -25,11 +25,11 @@
 
 <h3 align="left">Rapid Fire</h3>
 
-- 💼 I'm currently working on: **The Arid Expanse Trilogy (Oasis of Sands, Echoes of Dunes, and Mirage of Fate).**
+- 💼 I'm currently working on: **<a href="https://github.com/emubi50/oasencrawler">The Arid Expanse Trilogy</a> (Oasis of Sands, Echoes of Dunes, and Mirage of Fate).**
 - 🌱 I'm currently learning: **C++, Git & GitHub, JavaScript, TypeScript, Angular.**<!-- <br> 💬 Ask me about: **.**-->
 - ⚡ Fun fact: **In my time away from computers, I like playing on my violin.**
-- 📂 Portfolio: **I don't have a Portfolio yet...**
-- 📝 Blog: **The blog hasn't been created yet...**
+<!-- - 📂 Portfolio: **I don't have a Portfolio yet...**
+- 📝 Blog: **The blog hasn't been created yet...** -->
 
 <hr>
 
